@@ -5,3 +5,5 @@ Testing.
 Foo.
 
 foo
+
+foo
